@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "seed": "node seed.js",
+    "seed": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
